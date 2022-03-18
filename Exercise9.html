@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Czyrah Manzano" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Registration Form-Czyrah Manzano</title>
+</head>
+
+<body bgcolor="#808588">
+    <font face="Verdana" color="#FCFCFC">
+         <blockquote>
+		    <center><h1> Sign Up Now!</h1></center><br>
+            <h3>Fields marked as (*) are required</h3>
+            <form action="/page.php">
+            <fieldset>
+                <legend><h3>Your Details</h3></legend>
+					<label for="name" >Name*</label>
+                        <input type="text" size="30" max="25" name="name" title="" placeholder="Enter full name" id="name" autofocus required  /><br />
+                    <label for="email">Email Address*</label>
+                        <input type="email" size="25"  name="email" title="" placeholder="email@provider.com" id="email" required  /><br />
+                    <label for="number">Contact Number*</label>
+                         <input type="tel" size="15" max="" name="Contact Number" title="" placeholder="(+00)000-000-0000" id="number" 
+                         pattern="+([0-9]{2})[0-9]{3}-[0-9]{3}-[0-9]{4}" required /><br />
+                    <label for="birthday">Birthday*</label>
+                        <input type="date" size="" max="" name="Birthday" title="" id="birthday" required /><br />
+                    <label for="age">Age*</label>
+                        <input type="number" size="" min=0 max=100 name="Age" title=""  id="age" required /><br />
+            </fieldset>
+          
+            <fieldset>
+                <legend><h3>Delivery Address</h3></legend>
+                    <label for="address">Address*</label>
+                        <input type="text" size="30" max="25" name="address" title="" placeholder="House/Apt number and Street" id="address" required /><br />
+                    <label for="barangay">District/Barangay*</label>
+                        <input type="text" size="30" max="25" name="barangay" title="" placeholder="" id="barangay" required /><br />
+                    <label for="city">City*</label>
+                        <select required >
+                            <option value="space"></option>
+                            <option value="manila">Manila</option>
+                            <option value="pasig">Pasig</option>
+                            <option value="muntinlupa">Muntinlupa</option>
+                            <option value="taguig">Taguig</option>
+                            <option value="caloocan">Caloocan</option>
+                            <option value="pasay">Pasay</option>
+                            <option value="makati">Makati</option>
+                            <option value="navotas">Navotas</option>
+                            <option value="mandaluyong">Mandaluyong</option>
+                            <option value="marikina">Marikina</option>
+                        </select><br>
+                    <label for="postal">Postal Code*</label>
+                        <input type="text" size="30" max="25" name="postal" title="" placeholder="" id="postal" required /><br />
+                    <label for="province">Province*</label>
+                        <select required >
+                            <option value="space"></option>
+                            <option value="ncr">NCR</option>
+                            <option value="ilocosn">Ilocos Norte</option>
+                            <option value="ilocoss">Ilocos Sur</option>
+                            <option value="launion">La union</option>
+                            <option value="pangasinan">Pangasinan</option>
+                            <option value="batanes">Batanes</option>
+                            <option value="cagayan">Cagayan</option>
+                            <option value="isabela">Isabela</option>
+                            <option value="nuevav">Nueva Vizcaya</option>
+                            <option value="quirino">Quirino</option>
+                        </select>
+            </fieldset>
+
+            <fieldset>
+                <legend><h3>Membership Information</h3></legend>
+                <label for="uname">Username*</label>
+                        <input type="text" size="30" max="25" name="uname" title="" placeholder="Atleast 8 alphanumeric characters" id="uname" required /><br />
+                <label for="password">Password*</label>
+                        <input type="password" size="30" max="25" name="password" title="" placeholder="" id="password" /><br />
+                <label for="magazine">Magazine</label>
+                    <input type="checkbox" name="mag" value="m"> PC Magazine<br />
+                <label for="subscrip">Subscriptions</label>
+                <input type="checkbox" name="sub" value="w">Wired<br />
+                <input type="checkbox" name="sub" value="c">ComputerWorld<br />
+                <input type="checkbox" name="sub" value="d">I don't subscribe<br />
+                <input type="checkbox" name="sub" value="other">Other<br />
+            </fieldset>
+            <br>
+            <input type="submit" value="Submit Now!">
+            <input type="reset">
+        </form>
+         </font>    
+ </body>
+ </html>
