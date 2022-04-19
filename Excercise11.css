@@ -1,0 +1,107 @@
+.logo{
+    width: 150px;
+    border: 3px solid rgb(253, 255, 127);
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+
+header{
+    border: 3px solid rgb(253, 255, 127);
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 8px;
+}
+
+a{
+    padding: 10px 0 10px 0;
+    border: 3px solid rgb(253, 255, 127);
+    background-color: #fae2be;
+    Display:inline-block;
+    width: 200px;
+    margin: 90px 25px;
+    border-style: outset;
+}
+
+article{
+    border: 3px solid rgb(253, 255, 127);
+    padding: 5px;
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 8px;
+}
+
+p{
+    line-height: 250%;
+}
+
+.s1{
+    background-image:url("s1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 5px;
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+    
+}
+.s2{
+    background-image:url("s2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 5px;
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+    
+}
+.s3{
+    background-image:url("s3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 5px;
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+
+}
+
+.ref{
+    padding: 10px 0 10px 20px;
+    border: 3px solid rgb(206, 208, 113);
+    background-color: #fae2be;
+    Display:inline-block;
+    width: 300px;
+    margin: 5px 5px 50px 100px;
+    border-style: inset; 
+}
+
+footer{
+    background-color: #46575a;
+    border: 3px solid rgb(210, 255, 127);
+    margin: 25px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 8px;
+}
+
+h3{
+    font-family:"Lucida Console";
+    color: #961919;
+}
+
+h2, h1{
+    font-family:"Lucida Console";
+    color: #D24343;
+}
+
+p , i{
+    font-family: Verdana;
+    color: rgb(39, 39, 37);
+}
