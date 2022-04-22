@@ -1,0 +1,159 @@
+.topmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(pk.jpg);
+}
+h1{
+    length: 100px;
+}
+.topmenu li {
+    float: left;
+}
+.topmenu li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.topmenu li a:hover {
+    background-color: rgb(60, 60, 77);
+}
+.topmenu li a.active {
+    color: white;
+    background-color: #74bee9;
+}
+.sidemenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.sidemenu li a {
+    margin-bottom: 20px;
+    display: block;
+    padding: 35px;
+    background-color: #eee;
+    text-decoration: none;
+    color: #666;
+    border-radius: 20px;
+}
+.sidemenu li a:hover {
+    background-color: #555;
+    color: white;
+}
+.sidemenu li a.active {
+    background-color: #58c597;
+    color: white;
+}
+.sidemenu {
+    width: 85%;
+}
+.s1{
+    border: 3px solid rgb(150, 152, 53);
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 300px;
+    padding-left:25px;
+    background-image:url(side.jpg) ;
+    background-position:center bottom;
+}
+.logo{
+    width: 200px;
+    border: 3px solid rgb(253, 255, 127);
+    margin: 20px 20px 40px 14px;
+    border-radius: 10px;
+    height:auto;
+}
+.s2{
+    border: 3px solid rgb(150, 152, 53);
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-image: url(wallpaper.jpg);
+    background-position: center;
+    display: inline-block;
+    padding: 30px;
+    margin-top: 25px;
+    margin-bottom:25px;
+    margin-left: 25px;
+}
+.a1{
+    margin: 25px;
+    border: 3px solid rgb(253, 255, 127);
+    border-radius: 10px;
+    background-color: rgb(230, 240, 246);
+    padding: 15px;
+}
+.a2{
+    margin: 25px;
+    border: 3px solid rgb(253, 255, 127);
+    border-radius: 10px; 
+    overflow: auto;
+    background-color: rgb(230, 240, 246);
+    padding: 15px;
+}
+
+aside {
+    float: right;
+    margin-right: 50px;
+  }
+  .kaeya{
+    width: 250px;
+    height: auto;
+  }
+p{
+    line-height: 200%;
+}
+
+.ref{
+    padding: 5px;
+    background-color: #9adadf;
+    Display:inline-block;
+    margin:5px;
+    border-style: inset; 
+}
+
+[class*="col-"] {
+    width: 100%;
+    float: right;
+  }
+@media only screen and (min-width: 320px) {
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+  }
+  
+  @media only screen and (min-width: 668px) {
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
+
+  footer {
+    background-image: url(wallpaper.jpg);
+    background-position: center top;
+    color: white;
+    padding: 5px;
+}
