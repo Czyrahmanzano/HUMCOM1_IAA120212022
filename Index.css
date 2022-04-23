@@ -1,0 +1,892 @@
+ .u-section-1 {
+  background-image: url("images/1123014.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 782px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Abhaya Libre";
+  font-size: 3.4375rem;
+  width: 777px;
+  margin: 251px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Abhaya Libre";
+  width: 694px;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.125rem;
+  margin: 43px auto 60px;
+  padding: 3px 31px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.2917em;
+  margin-left: 3px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 742px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 234px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}.u-block-0ee0-5 {
+  position: absolute;
+  top: auto;
+  left: auto;
+  right: calc(((100% - 1140px) / 2)  + 514px);
+  bottom: 14px;
+}
+
+.u-block-0ee0-3 {
+  position: absolute;
+  left: 0;
+  padding: 7px;
+}
+
+.u-block-0ee0-4 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  right: 0;
+  padding: 7px;
+}
+
+@media (max-width: 1199px) {
+  .u-block-0ee0-5 {
+    right: calc(((100% - 940px) / 2)  + 414px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-0ee0-5 {
+    right: calc(((100% - 720px) / 2)  + 304px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-0ee0-5 {
+    right: calc(((100% - 540px) / 2)  + 214px);
+  }
+
+  .u-block-0ee0-3 {
+    width: 65px;
+    height: 65px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-0ee0-5 {
+    right: calc(((100% - 340px) / 2)  + 114px);
+  }
+}
+
+ .u-section-2-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/wp8732334.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 901px;
+}
+
+.u-section-2-1 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.25rem;
+  margin: 54px 0 0 auto;
+  padding: 0;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: "Abhaya Libre";
+  margin: 30px 89px 0;
+}
+
+.u-section-2-1 .u-image-1 {
+  width: 907px;
+  height: 633px;
+  margin: 85px -110px 0 auto;
+}
+
+.u-section-2-1 .u-image-2 {
+  width: 77px;
+  height: 77px;
+  margin: -548px auto 0 323px;
+}
+
+.u-section-2-1 .u-text-2 {
+  font-family: "Abhaya Libre";
+  font-size: 1.375rem;
+  margin: 70px 740px 0 68px;
+}
+
+.u-section-2-1 .u-text-3 {
+  font-size: 3rem;
+  font-family: "Brygada 1918";
+  margin: -252px 916px 0 48px;
+}
+
+.u-section-2-1 .u-image-3 {
+  width: 217px;
+  height: 39px;
+  margin: 2px auto 60px 72px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 743px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    height: 632px;
+    margin-top: -10px;
+    margin-right: -203px;
+  }
+
+  .u-section-2-1 .u-image-2 {
+    margin-top: -492px;
+    margin-left: 307px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: auto;
+    margin-top: 54px;
+    margin-right: 615px;
+    margin-left: 61px;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    width: auto;
+    margin-top: -263px;
+    margin-right: 734px;
+    margin-left: 30px;
+  }
+
+  .u-section-2-1 .u-image-3 {
+    margin-top: -7px;
+    margin-left: 54px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 569px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    margin-top: -34px;
+    margin-right: -336px;
+  }
+
+  .u-section-2-1 .u-image-2 {
+    margin-top: -536px;
+    margin-left: 283px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-top: 69px;
+    margin-right: 447px;
+    margin-left: 19px;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    margin-top: -278px;
+    margin-right: 544px;
+    margin-left: 0;
+  }
+
+  .u-section-2-1 .u-image-3 {
+    margin-top: 0;
+    margin-left: 19px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 2420px;
+  }
+
+  .u-section-2-1 .u-btn-1 {
+    margin-top: 85px;
+    margin-right: 23px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    margin-top: 0;
+    margin-right: 116px;
+    margin-left: 1024px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    height: 376px;
+    width: 540px;
+    margin-top: -500px;
+    margin-right: auto;
+    margin-left: -23px;
+  }
+
+  .u-section-2-1 .u-image-2 {
+    margin-top: 35px;
+    margin-right: 108px;
+    margin-left: auto;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-top: 141px;
+    margin-right: 157px;
+    margin-left: 129px;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    margin-top: 112px;
+    margin-right: 240px;
+    margin-left: 900px;
+  }
+
+  .u-section-2-1 .u-image-3 {
+    margin-top: -815px;
+    margin-left: 85px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 1999px;
+  }
+
+  .u-section-2-1 .u-btn-1 {
+    margin-right: 400px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: -114px;
+    margin-left: 1254px;
+  }
+
+  .u-section-2-1 .u-image-1 {
+    height: 237px;
+    width: 340px;
+    margin-top: -468px;
+    margin-left: 0;
+  }
+
+  .u-section-2-1 .u-image-2 {
+    margin-top: -2115px;
+    margin-right: -15px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 254px;
+    margin-top: 94px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    margin-top: 932px;
+    margin-right: -60px;
+    margin-left: 1200px;
+  }
+
+  .u-section-2-1 .u-image-3 {
+    margin-top: -1537px;
+    margin-left: auto;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/f79df798f0f6493919d1c5c20263614b.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-sheet-1 {
+  min-height: 901px;
+}
+
+.u-section-2-2 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.25rem;
+  margin: 44px -31px 0 auto;
+  padding: 0;
+}
+
+.u-section-2-2 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: "Abhaya Libre";
+  margin: 41px 89px 0;
+}
+
+.u-section-2-2 .u-image-1 {
+  width: 813px;
+  height: 653px;
+  margin: 65px -37px 0 auto;
+}
+
+.u-section-2-2 .u-text-2 {
+  font-family: "Abhaya Libre";
+  font-size: 1.375rem;
+  margin: -406px 683px 0 48px;
+}
+
+.u-section-2-2 .u-text-3 {
+  font-size: 3rem;
+  font-family: "Brygada 1918";
+  margin: -325px 916px 0 48px;
+}
+
+.u-section-2-2 .u-image-2 {
+  width: 217px;
+  height: 39px;
+  margin: 0 auto 0 48px;
+}
+
+.u-section-2-2 .u-image-3 {
+  width: 77px;
+  height: 77px;
+  margin: -115px auto 60px 278px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2-2 .u-image-1 {
+    margin-right: -69px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: auto;
+    margin-top: -432px;
+    margin-right: 579px;
+    margin-left: 30px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: auto;
+    margin-top: -332px;
+    margin-right: 723px;
+    margin-left: 41px;
+  }
+
+  .u-section-2-2 .u-image-2 {
+    margin-left: 41px;
+  }
+
+  .u-section-2-2 .u-image-3 {
+    margin-top: -116px;
+    margin-left: 295px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 826px;
+  }
+
+  .u-section-2-2 .u-image-1 {
+    width: 720px;
+    height: 578px;
+    margin-top: 82px;
+    margin-right: -149px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    margin-top: -282px;
+    margin-right: 402px;
+    margin-left: -13px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    margin-top: -342px;
+    margin-right: 544px;
+    margin-left: 0;
+  }
+
+  .u-section-2-2 .u-image-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2-2 .u-image-3 {
+    margin-left: 241px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 2711px;
+  }
+
+  .u-section-2-2 .u-btn-1 {
+    margin-top: 71px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    margin-top: 13px;
+    margin-right: 116px;
+    margin-left: 1024px;
+  }
+
+  .u-section-2-2 .u-image-1 {
+    width: 540px;
+    height: 434px;
+    margin-top: -446px;
+    margin-right: -9px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    margin-top: 273px;
+    margin-right: 96px;
+    margin-left: 113px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    margin-top: 37px;
+    margin-right: 240px;
+    margin-left: 900px;
+  }
+
+  .u-section-2-2 .u-image-2 {
+    margin-top: -1013px;
+    margin-left: 90px;
+  }
+
+  .u-section-2-2 .u-image-3 {
+    margin-top: -58px;
+    margin-right: 89px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 364px;
+  }
+
+  .u-section-2-2 .u-btn-1 {
+    margin-right: 400px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    font-size: 3rem;
+    margin-right: -114px;
+    margin-left: 1254px;
+  }
+
+  .u-section-2-2 .u-image-1 {
+    width: 340px;
+    height: 273px;
+    margin-right: 0;
+    margin-left: 400px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    margin-right: 0;
+    margin-left: 78px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    margin-top: -565px;
+    margin-right: -60px;
+    margin-left: 1200px;
+  }
+
+  .u-section-2-2 .u-image-3 {
+    margin-top: 492px;
+    margin-bottom: 0;
+  }
+}
+
+ .u-section-2-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/wp9550724-genshin-impact-inazuma-wallpapers.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-3 .u-sheet-1 {
+  min-height: 901px;
+}
+
+.u-section-2-3 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.25rem;
+  margin: 54px 0 0 auto;
+  padding: 0;
+}
+
+.u-section-2-3 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: "Abhaya Libre";
+  margin: 24px 89px 0;
+}
+
+.u-section-2-3 .u-image-1 {
+  width: 1049px;
+  height: 639px;
+  margin: 85px -203px 0 auto;
+}
+
+.u-section-2-3 .u-image-2 {
+  width: 77px;
+  height: 77px;
+  margin: -539px auto 0 395px;
+}
+
+.u-section-2-3 .u-text-2 {
+  font-family: "Abhaya Libre";
+  font-size: 1.375rem;
+  margin: 55px 705px 0 23px;
+}
+
+.u-section-2-3 .u-text-3 {
+  font-size: 2.625rem;
+  font-family: "Brygada 1918";
+  margin: -264px 793px 0 -10px;
+}
+
+.u-section-2-3 .u-image-3 {
+  width: 217px;
+  height: 39px;
+  margin: 2px auto 60px 23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 744px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2-3 .u-image-1 {
+    height: 640px;
+    margin-top: 14px;
+    margin-right: -223px;
+  }
+
+  .u-section-2-3 .u-image-2 {
+    margin-top: -444px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: auto;
+    margin-top: -54px;
+    margin-right: 558px;
+    margin-left: 48px;
+  }
+
+  .u-section-2-3 .u-text-3 {
+    width: auto;
+    margin-top: -312px;
+    margin-right: 570px;
+    margin-left: 14px;
+  }
+
+  .u-section-2-3 .u-image-3 {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 543px;
+  }
+
+  .u-section-2-3 .u-image-1 {
+    width: 720px;
+    height: 439px;
+    margin-top: 0;
+    margin-right: -160px;
+  }
+
+  .u-section-2-3 .u-image-2 {
+    margin-top: -419px;
+    margin-right: 295px;
+    margin-left: auto;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    margin-top: 34px;
+    margin-right: 376px;
+    margin-left: 10px;
+  }
+
+  .u-section-2-3 .u-text-3 {
+    margin-top: -290px;
+    margin-right: 382px;
+    margin-left: -18px;
+  }
+
+  .u-section-2-3 .u-image-3 {
+    margin-top: -5px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 2849px;
+  }
+
+  .u-section-2-3 .u-btn-1 {
+    margin-right: 300px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    margin-right: 116px;
+    margin-left: 1024px;
+  }
+
+  .u-section-2-3 .u-image-1 {
+    width: 540px;
+    height: 329px;
+    margin-top: -317px;
+    margin-right: auto;
+    margin-left: -9px;
+  }
+
+  .u-section-2-3 .u-image-2 {
+    margin-top: 49px;
+    margin-right: 85px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 334px;
+    margin-top: 93px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2-3 .u-text-3 {
+    margin-top: -36px;
+    margin-right: 240px;
+    margin-left: 900px;
+  }
+
+  .u-section-2-3 .u-image-3 {
+    margin-top: -1106px;
+    margin-left: 119px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 311px;
+  }
+
+  .u-section-2-3 .u-btn-1 {
+    margin-right: 400px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    font-size: 3rem;
+    margin-right: -114px;
+    margin-left: 1254px;
+  }
+
+  .u-section-2-3 .u-image-1 {
+    width: 340px;
+    height: 207px;
+    margin-left: 400px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    margin-right: 0;
+    margin-left: 78px;
+  }
+
+  .u-section-2-3 .u-text-3 {
+    margin-top: -565px;
+    margin-right: -60px;
+    margin-left: 1200px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 749px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Cantata One";
+  margin: 92px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 25px 197px 0;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 423px;
+  margin-top: 37px;
+  margin-bottom: 60px;
+  grid-gap: 17px 17px;
+}
+
+.u-section-3 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+
+.u-section-3 .u-gallery-item-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  padding: 100px;
+}
+
+.u-section-3 .u-gallery-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  padding: 100px;
+}
+
+.u-section-3 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  padding: 100px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 675px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 97px;
+    margin-right: 97px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 349px;
+  }
+
+  .u-section-3 .u-over-slide-1 {
+    padding: 70px;
+  }
+
+  .u-section-3 .u-over-slide-2 {
+    padding: 70px;
+  }
+
+  .u-section-3 .u-over-slide-3 {
+    padding: 70px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1127px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 802px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2131px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 1805px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1462px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 1136px;
+  }
+}
