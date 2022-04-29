@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>Input/Output Example Page</title>
+		<script type="text/javascript">
+	
+		function visitorRegistration() 
+		{
+			var vname=prompt(“Please enter your full name.”, “”);
+	
+			if(confirm("Please confirm that your full name is " + vname))
+			{
+				alert("Thank you for registering!");
+				document.write("For further questions<br>");
+				document.write("please inquire at the ICT Office.");
+			}
+			else
+			{
+				document.write("Please access this page again.");
+			}
+
+
+		}
+
+	
+
+		</script>
+
+	</head>
+	<body onload="visitorRegistration();">
+	</body>
+</html>

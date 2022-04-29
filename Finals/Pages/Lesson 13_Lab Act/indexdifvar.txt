@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+
+<html>			
+<body>
+
+<script text="text/javascript">  
+	
+	var x=88; 			//1. declaration section of variable  - Syntax: var variable = value (x is the name of variable and 88 is the value of x
+		document.write (x);				
+	
+	var x=88; 					
+	document.write (X);		//2. variable are CASE Sensitive (replace it with X; x!=X , it will not display the content
+	
+	var _x=90; 					
+	document.write (_x);		//3.variable can start with a letter or underscore (_) but not with a number or other special characters
+
+</script>
+
+
+</body>
+</html>
+
+<!--Lesson 3- Variable declarations 
+//1. declaration section of variable  - Syntax: var variable = value (x is the name of variable and 88 is the value of x
+//2. variable are CASE Sensitive (replace it with X; x!=X , it will not display the content
+//3.variable can start with a letter or underscore (_) but not with a number or other special characters
